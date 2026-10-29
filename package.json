@@ -1,0 +1,21 @@
+{
+  "name": "markdown-to-html-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saint8008/Markdown-to-HTML-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saint8008/Markdown-to-HTML-converter/issues"
+  },
+  "homepage": "https://github.com/saint8008/Markdown-to-HTML-converter#readme"
+}
